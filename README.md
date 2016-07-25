@@ -17,7 +17,7 @@ An antiporter is an integral membrane protein involved in the secondary active t
 
 ##Glycogen phosphorylase
 
-
+Glycogen phosphorylase is one of the phosphorylase enzymes that catalyzes the rate-limiting step in glycogenolysis in animals by releasing glucose-1-phosphate from the termincal alpa-1,4-glycosidic bond. It is also studied as a model protein regulated by both reverisble phosphorylation and allosteric effects. As for as clinical significance, glycogen phosphorylase has been proposed as a biomarker for multiple diseases and health issues such McArdle's Disease (glycogen storage disease type V; ), Hers' Disease (glycogen storage disease type VI), and gastric cancer. Glycogen phosphorylase has also been proposed as one method for treating type 2 diabetes.
 
 ##Enolase
 
