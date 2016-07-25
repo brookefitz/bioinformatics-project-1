@@ -22,5 +22,6 @@ Glycogen phosphorylase is one of the phosphorylase enzymes that catalyzes the ra
 ##Enolase
 
 Enolase is a metalloenzyme that catalyzes the conversion of 2-phosphoglycerate (2-PG) to phosphoenolpyruvate (PEP), which are the ninth and penultimate steps of glycolysis. The chemical reaction that enolase catalyzes is:
+
 	2-PG <=> PEP + H2O
 The enolase belongs to a family of hydro-lyases, which break up carbon-oxygen bonds. It is present in all tissues and organism capable of glycolysis or fermentation. In some recent medical experiments, samples of enolase concentrations have been taken from patients in an attempt to diagnose certain conditions and their severity. 
