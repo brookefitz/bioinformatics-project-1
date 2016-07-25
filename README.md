@@ -1,4 +1,4 @@
-# gene-sorting
+# bioinformatics-project-1
 
 ##Acetyl-CoA synthetase
 
